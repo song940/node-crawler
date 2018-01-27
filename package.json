@@ -1,0 +1,18 @@
+{
+  "name": "@song940/crawler",
+  "version": "1.0.0",
+  "description": "simple crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "lsong",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
